@@ -17,6 +17,9 @@ Although I can't upload the original data and the code therefore can't be run, I
 these files in this folder. All .csv files are comma-delimited.
 
 AccuracyAndConfs.csv - Output of accuracy_confidence.r
+
 ConfidenceNAs.csv - Subjects and trials for which confidence data was not available
+
 FixationNAs.csv - Subjects and trials for which last fixation (area where subject's eyes were looking) was not available
+
 TotalTargetViewingTime.csv - For how many milliseconds in each trial did the subject look at the correct target
